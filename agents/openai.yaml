@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper to Academic PPT"
+  short_description: "Evidence-linked paper-to-PPT workflow with render checks."
+  default_prompt: "Use $paper-to-academic-ppt to turn the supplied paper and template into an editable, evidence-linked academic deck with notes and rendered previews."
